@@ -1,1 +1,2 @@
-# lab2048.github.io
+# 2048lab
+## toward a better 2048
